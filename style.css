@@ -1,0 +1,39 @@
+body
+{
+  font-family: 'Special Elite', cursive;
+  background: #fca5ff;
+  border-left: 40px solid #72008f;
+  border-right: 40px solid #72008f;
+  border-bottom: 20px solid #72008f;
+}
+
+.header_div
+  {
+    background:#72008f;
+    color: #f5d4fd; 
+    padding: 30px;
+    font-weight: bold;
+    text-shadow: 3px 3px #3b0049;
+  }
+
+  .header_div p{
+    font-family: 'Roboto', sans-serif;
+    color: rgb(218, 218, 218);
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+  }
+  .main_div button{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    background-color: #9f00ad;
+    color: white;
+  }
+
+  img{
+    width: 300px;
+    height: 250px;
+  }
